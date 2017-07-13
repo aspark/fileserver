@@ -1,0 +1,6 @@
+*.exe
+bin
+*.test
+debug
+*.debug
+.vscode

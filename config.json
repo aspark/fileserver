@@ -1,0 +1,9 @@
+{
+    "User":"user",
+    "Pwd":"pwd",
+    "AllowedIP":"127.0.0.1",
+    "Path":{
+        "PathName1":"./",
+        "PathName2":"./"
+    }
+}
